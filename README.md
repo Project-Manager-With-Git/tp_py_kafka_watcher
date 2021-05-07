@@ -1,2 +1,18 @@
 # tp_py_kafka_watcher
-作为kafka的消费者监听topic
+
++ author: hsz12
++ author-email: 
+
+
+
+keywords: 
+
+## 特性
+
++ feature1
+
+
+
+## TODO
+
++ todo1:
