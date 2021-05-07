@@ -1,18 +1,6 @@
 # tp_py_kafka_watcher
 
-+ author: hsz12
-+ author-email: 
++ author: hsz
++ author-email: hsz1273327@gmail.com
 
-
-
-keywords: 
-
-## 特性
-
-+ feature1
-
-
-
-## TODO
-
-+ todo1:
+kafka的监听项目模板
