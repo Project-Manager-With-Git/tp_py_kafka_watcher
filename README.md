@@ -1,6 +1,10 @@
 # tp_py_kafka_watcher
 
-+ author: hsz
-+ author-email: hsz1273327@gmail.com
+使用同步接口的kafka监听模板
 
-kafka的监听项目模板
+## 核心模板
+
+| 模板名    | 说明                          |
+| --------- | ----------------------------- |
+| `watcher` | 消费者对象的代理,可以单独使用 |
+| `sender`  | 生产者对象的代理,可以单独使用 |
